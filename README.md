@@ -1,1 +1,1 @@
-# study-react-effects
+# learn-react-effect-hook
